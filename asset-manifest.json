@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/daisyui-demo/static/css/main.a5a893bf.css",
+    "main.js": "/daisyui-demo/static/js/main.316716e1.js",
+    "static/js/787.1ee158bd.chunk.js": "/daisyui-demo/static/js/787.1ee158bd.chunk.js",
+    "static/media/avatar.png": "/daisyui-demo/static/media/avatar.33bccc9e27e76d65bf94.png",
+    "static/media/bg.jpg": "/daisyui-demo/static/media/bg.8fbed26d18a12462d96c.jpg",
+    "index.html": "/daisyui-demo/index.html",
+    "main.a5a893bf.css.map": "/daisyui-demo/static/css/main.a5a893bf.css.map",
+    "main.316716e1.js.map": "/daisyui-demo/static/js/main.316716e1.js.map",
+    "787.1ee158bd.chunk.js.map": "/daisyui-demo/static/js/787.1ee158bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5a893bf.css",
+    "static/js/main.316716e1.js"
+  ]
+}
